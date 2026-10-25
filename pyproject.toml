@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cyber-guardians-cti-soar"
 version = "0.1.0"
-description = "Cyber threat intelligence and SOAR development platform"
+description = "Development scaffold for a cyber threat intelligence and SOAR platform"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
